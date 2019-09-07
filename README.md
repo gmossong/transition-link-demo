@@ -8,7 +8,7 @@
   TransitionLink Gatsby Demo
 </h1>
 
-This project started with the hello-world boilerplate. It ships with the main Gatsby configuration files plus React Pose and TransitionLink. It also uses gatsby-image.
+This project started with the hello-world boilerplate. It ships with the main Gatsby configuration files plus React Pose and TransitionLink. It also uses gatsby-image. [Click here for a live demo](https://thirsty-liskov-726f68.netlify.com/).
 
 ## 🚀 Quick start
 
